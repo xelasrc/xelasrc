@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Alex!
 
 ### 💫 About Me:
-> Final-year Software Engineering @ Victoria University of Wellington
+> Final-year Software Engineering @ Victoria University of Wellington. <br>
 > Interested in building technically challenging projects that push me to learn new tools and frameworks.
 
 ### 🌐 Socials
